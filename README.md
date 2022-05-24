@@ -1,2 +1,2 @@
 # COVID19-in-Victoria
-R Xaringan presentation on COVID19 in Victoria. Group presentation. MBAT - S2, 2021
+R Xaringan group presentation on COVID19 in Victoria. MBAT - S2, 2021
